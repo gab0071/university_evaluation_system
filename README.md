@@ -1,5 +1,7 @@
 <h1>University Evaluation System with Solidity ⛓📚</h1>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 <p>I made a smart contract, simulating the evaluation process in a university, where the only one who can evaluate and modify the notes is the teacher, however I also made some public functions where the student or any person who has a valid ID can access the notes and request revisions in case you are not satisfied.</p> 
 
 <p>I had a lot of fun doing this project, as it has further reinforced the fundamentals of solidity that I have learned. </p>
